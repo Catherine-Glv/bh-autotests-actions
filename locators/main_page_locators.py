@@ -1,0 +1,5 @@
+FIELD_INPUT_LOGIN_LOCATOR = "//input[@id='user-name']"
+FIELD_INPUT_PASSWORD_LOCATOR = "//input[@id='password']"
+BUTTON_LOGIN_LOCATOR = "//input[@id='login-button']"
+LOGO_LOCATOR = "//div[@class='login_logo']"
+ERROR_MSG_LOGIN_LOCATOR = "//h3[@data-test='error']"
