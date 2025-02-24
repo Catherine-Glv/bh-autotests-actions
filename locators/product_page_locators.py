@@ -1,0 +1,6 @@
+PRODUCT_ITEMS = "//div[@class='inventory_container']"
+BURGER_MENU = "//div[@class='bm-burger-button']"
+BURGER_MENU_ALL_ITEMS = "//a[@id='inventory_sidebar_link']"
+BURGER_MENU_ABOUT = "//a[@id='about_sidebar_link']"
+BURGER_MENU_LOGOUT = "//a[@id='logout_sidebar_link']"
+BURGER_MENU_RESET = "//a[@id='reset_sidebar_link']"

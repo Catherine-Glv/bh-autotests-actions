@@ -23,6 +23,3 @@ def page(browser):
 @pytest.fixture()
 def login_page_pl(page):
     return LoginPage(page)
-
-# 1) - hp авторизация
-# 2) проверьте текст ошибки
